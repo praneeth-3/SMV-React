@@ -1,0 +1,136 @@
+{
+    "images": {
+        "bedroom": [
+            {
+                "name": "blazer",
+                "images": [
+                    "Images/Bedroom/blazer/1img.webp",
+                    "Images/Bedroom/blazer/2img.webp",
+                    "Images/Bedroom/blazer/3img.webp"
+                ]
+            },
+            {
+                "name": "marvella",
+                "images": [
+                    "Images/Bedroom/marvella/1img.webp",
+                    "Images/Bedroom/marvella/2img.webp",
+                    "Images/Bedroom/marvella/3img.webp",
+                    "Images/Bedroom/marvella/4img.webp"
+                ]
+            },
+            {
+                "name": "morice",
+                "images": [
+                    "Images/Bedroom/morice/1img.webp",
+                    "Images/Bedroom/morice/2img.webp",
+                    "Images/Bedroom/morice/3img.webp"
+                ]
+            },
+            {
+                "name": "yukon",
+                "images": [
+                    "Images/Bedroom/yukon/1img.webp",
+                    "Images/Bedroom/yukon/2img.webp",
+                    "Images/Bedroom/yukon/3img.webp"
+                ]
+            }
+        ],
+        "poojaroom": [
+            "Images/PoojaRoom/FB_IMG_1583848656164.jpg",
+            "Images/PoojaRoom/FB_IMG_1584115324816.jpg",
+            "Images/PoojaRoom/FB_IMG_1600875714204.jpg",
+            "Images/PoojaRoom/IMG-20190428-WA0113.jpg",
+            "Images/PoojaRoom/IMG-20200808-WA0021.jpg",
+            "Images/PoojaRoom/IMG-20210227-WA0012.jpg"
+        ],
+        "kitchen": [
+            {
+                "name": "maroon white",
+                "images": [
+                    "Images/Kitchen/Maroon-White/IMG-20190511-WA0012.jpg",
+                    "Images/Kitchen/Maroon-White/IMG-20190512-WA0005.jpg",
+                    "Images/Kitchen/Maroon-White/IMG-20190512-WA0006.jpg",
+                    "Images/Kitchen/Maroon-White/IMG-20190512-WA0009.jpg",
+                    "Images/Kitchen/Maroon-White/IMG-20190512-WA0006.jpg",
+                    "Images/Kitchen/Maroon-White/IMG-20190703-WA0003.jpg",
+                    "Images/Kitchen/Maroon-White/IMG-20190703-WA0005.jpg",
+                    "Images/Kitchen/Maroon-White/IMG-20190703-WA0007.jpg"
+                ]
+            },
+            {
+                "name": "brown",
+                "images": [
+                    "Images/Kitchen/brown/IMG-20190828-WA0022.jpg",
+                    "Images/Kitchen/brown/IMG-20190828-WA0023.jpg",
+                    "Images/Kitchen/brown/IMG-20190828-WA0024.jpg"
+                ]
+            },
+            {
+                "name": "green",
+                "images": [
+                    "Images/Kitchen/green/IMG-20190425-WA0010.jpg",
+                    "Images/Kitchen/green/IMG-20190425-WA0014.jpg"
+                ]
+            },
+            {
+                "name": "dark brown",
+                "images": [
+                    "Images/Kitchen/dark-brown/IMG-20190608-WA0043.jpg",
+                    "Images/Kitchen/dark-brown/IMG-20190608-WA0044.jpg",
+                    "Images/Kitchen/dark-brown/IMG-20190608-WA0046.jpg",
+                    "Images/Kitchen/dark-brown/IMG-20190608-WA0047.jpg",
+                    "Images/Kitchen/dark-brown/IMG-20190608-WA0048.jpg",
+                    "Images/Kitchen/dark-brown/IMG-20190608-WA0049.jpg"
+                ]
+            },
+            {
+                "name": "grey",
+                "images": [
+                    "Images/Kitchen/grey/IMG-20190503-WA0063.jpg",
+                    "Images/Kitchen/grey/IMG-20190503-WA0064.jpg",
+                    "Images/Kitchen/grey/IMG-20190515-WA0005.jpg",
+                    "Images/Kitchen/grey/IMG-20190515-WA0006.jpg",
+                    "Images/Kitchen/grey/IMG-20190515-WA0007.jpg",
+                    "Images/Kitchen/grey/IMG-20190515-WA0009.jpg"
+                ]
+            },
+            {
+                "name": "pink",
+                "images": [
+                    "Images/Kitchen/pink/IMG-20190425-WA0013.jpg",
+                    "Images/Kitchen/pink/IMG-20190425-WA0015.jpg",
+                    "Images/Kitchen/pink/IMG-20190425-WA0016.jpg",
+                    "Images/Kitchen/pink/IMG-20190425-WA0019.jpg",
+                    "Images/Kitchen/pink/IMG-20190425-WA0026.jpg"
+                ]
+            },
+            {
+                "name": "white",
+                "images": [
+                    "Images/Kitchen/white/IMG-20201228-WA0000.jpeg",
+                    "Images/Kitchen/white/IMG-20201228-WA0001.jpeg",
+                    "Images/Kitchen/white/IMG-20201228-WA0004.jpeg",
+                    "Images/Kitchen/white/IMG-20201228-WA0008.jpeg"
+                ]
+            }
+        ],
+        "tv": [
+            "Images/TV/FB_IMG_1600703267316.jpg",
+            "Images/TV/FB_IMG_1600703277300.jpg",
+            "Images/TV/FB_IMG_1601179616768.jpg",
+            "Images/TV/images (4).jpeg",
+            "Images/TV/images (15).jpeg",
+            "Images/TV/IMG-20200214-WA0014.jpg",
+            "Images/TV/IMG-20200823-WA0005.jpg"
+        ],
+        "wardrobe": [
+            "Images/Wardrobe/FB_IMG_1597480674634.jpg",
+            "Images/Wardrobe/images (11).jpeg",
+            "Images/Wardrobe/images (14).jpeg",
+            "Images/Wardrobe/IMG-20191206-WA0016.jpg",
+            "Images/Wardrobe/IMG-20191206-WA0017.jpg",
+            "Images/Wardrobe/IMG-20200808-WA0001.jpg",
+            "Images/Wardrobe/IMG-20200808-WA0002.jpg"
+        ]
+    }
+}
